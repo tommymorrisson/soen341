@@ -30,7 +30,7 @@ A user is able to:
  
 - Chad Buck - CHADBUCK13
 - Dany Khaled - danikh25
-- Aida Berhe - aberhenegousse
+- Aida Berhe- Negousse
 - Matin Tavakkoli- matavak
 - Henry zhixing Li - JoliopoLi 
 - Mathieu Trudeau - mathieutrudeau
