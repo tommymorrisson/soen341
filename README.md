@@ -32,7 +32,7 @@ A user is able to:
 - Dany Khaled - danikh25
 - Aida Berhe - aberhenegousse
 - Matin Tavakkoli- matavak
-- Henry zhixing Li - 40091330
+- Henry zhixing Li - JoliopoLi 
 - Mathieu Trudeau - mathieutrudeau
 - Hawa Diallo - hawadi
 
@@ -42,7 +42,7 @@ A user is able to:
 - CSS
 - HTML
 ### Back end:
-- MySQL/PHP
+- Firebase
 - Django
 
 
